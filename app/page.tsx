@@ -1,4 +1,6 @@
+import { Button } from "@/components/ui/button";
+
 const Homepage = () => {
-  return <div>Dive Center Manager</div>;
+  return <Button>Button</Button>;
 };
 export default Homepage;
